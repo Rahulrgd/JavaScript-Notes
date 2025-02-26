@@ -1,6 +1,6 @@
 # JavaScript Notes – Part 13: Promises in JavaScript  
 
-In this part, we will cover:  
+In this part, we will cover :  
 - What are Promises?  
 - Creating and using Promises  
 - Chaining Promises (`then`, `catch`, `finally`)  
